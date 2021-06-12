@@ -1,0 +1,5 @@
+C:\Users\allen\source\repos\Picture_splice\Texts\bin\Release\Texts.dll
+C:\Users\allen\source\repos\Picture_splice\Texts\bin\Release\Texts.pdb
+C:\Users\allen\source\repos\Picture_splice\Texts\obj\Release\Texts.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\Picture_splice\Texts\obj\Release\Texts.dll
+C:\Users\allen\source\repos\Picture_splice\Texts\obj\Release\Texts.pdb

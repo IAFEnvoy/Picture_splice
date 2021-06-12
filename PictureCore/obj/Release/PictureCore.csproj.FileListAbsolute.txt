@@ -1,0 +1,6 @@
+C:\Users\allen\source\repos\Picture_splice\PictureCore\bin\Release\PictureCore.dll
+C:\Users\allen\source\repos\Picture_splice\PictureCore\bin\Release\PictureCore.pdb
+C:\Users\allen\source\repos\Picture_splice\PictureCore\obj\Release\PictureCore.csprojAssemblyReference.cache
+C:\Users\allen\source\repos\Picture_splice\PictureCore\obj\Release\PictureCore.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\Picture_splice\PictureCore\obj\Release\PictureCore.dll
+C:\Users\allen\source\repos\Picture_splice\PictureCore\obj\Release\PictureCore.pdb

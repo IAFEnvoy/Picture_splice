@@ -1,0 +1,6 @@
+C:\Users\allen\source\repos\Picture_splice\BinaryObject\bin\Release\BinaryObject.dll
+C:\Users\allen\source\repos\Picture_splice\BinaryObject\bin\Release\BinaryObject.pdb
+C:\Users\allen\source\repos\Picture_splice\BinaryObject\obj\Release\BinaryObject.csprojAssemblyReference.cache
+C:\Users\allen\source\repos\Picture_splice\BinaryObject\obj\Release\BinaryObject.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\Picture_splice\BinaryObject\obj\Release\BinaryObject.dll
+C:\Users\allen\source\repos\Picture_splice\BinaryObject\obj\Release\BinaryObject.pdb

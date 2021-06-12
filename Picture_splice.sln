@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picture_splice", "Picture_splice\Picture_splice.csproj", "{92A17781-D093-469A-B594-E720B36BDDDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryObject", "BinaryObject\BinaryObject.csproj", "{3735ACB4-BBC0-4706-BB54-64D73DB1F9C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureCore", "PictureCore\PictureCore.csproj", "{ABAD7AB3-C5B2-4063-8CE8-37C36F1D9ED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Texts", "Texts\Texts.csproj", "{AB5AB8F9-8FBB-48CB-AD6B-F963BC973380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR", "QR\QR.csproj", "{511DBE32-FFD5-4F1C-AFF6-AF5129B80C21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPBGPictureBox", "TPBGPictureBox\TPBGPictureBox.csproj", "{DBEDFAD6-419C-4F75-B75A-A5B67171B61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A17781-D093-469A-B594-E720B36BDDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A17781-D093-469A-B594-E720B36BDDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A17781-D093-469A-B594-E720B36BDDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A17781-D093-469A-B594-E720B36BDDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3735ACB4-BBC0-4706-BB54-64D73DB1F9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3735ACB4-BBC0-4706-BB54-64D73DB1F9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3735ACB4-BBC0-4706-BB54-64D73DB1F9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3735ACB4-BBC0-4706-BB54-64D73DB1F9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAD7AB3-C5B2-4063-8CE8-37C36F1D9ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAD7AB3-C5B2-4063-8CE8-37C36F1D9ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAD7AB3-C5B2-4063-8CE8-37C36F1D9ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAD7AB3-C5B2-4063-8CE8-37C36F1D9ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5AB8F9-8FBB-48CB-AD6B-F963BC973380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5AB8F9-8FBB-48CB-AD6B-F963BC973380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5AB8F9-8FBB-48CB-AD6B-F963BC973380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5AB8F9-8FBB-48CB-AD6B-F963BC973380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511DBE32-FFD5-4F1C-AFF6-AF5129B80C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511DBE32-FFD5-4F1C-AFF6-AF5129B80C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511DBE32-FFD5-4F1C-AFF6-AF5129B80C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511DBE32-FFD5-4F1C-AFF6-AF5129B80C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEDFAD6-419C-4F75-B75A-A5B67171B61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEDFAD6-419C-4F75-B75A-A5B67171B61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEDFAD6-419C-4F75-B75A-A5B67171B61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEDFAD6-419C-4F75-B75A-A5B67171B61D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D59067-0263-476E-B2C0-A722F742AB1F}
+	EndGlobalSection
+EndGlobal

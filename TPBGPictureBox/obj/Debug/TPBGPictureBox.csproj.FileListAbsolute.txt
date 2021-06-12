@@ -1,0 +1,6 @@
+C:\Users\allen\source\repos\Picture_splice\TPBGPictureBox\bin\Debug\TPBGPictureBox.dll
+C:\Users\allen\source\repos\Picture_splice\TPBGPictureBox\bin\Debug\TPBGPictureBox.pdb
+C:\Users\allen\source\repos\Picture_splice\TPBGPictureBox\obj\Debug\TPBGPictureBox.csprojAssemblyReference.cache
+C:\Users\allen\source\repos\Picture_splice\TPBGPictureBox\obj\Debug\TPBGPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\Picture_splice\TPBGPictureBox\obj\Debug\TPBGPictureBox.dll
+C:\Users\allen\source\repos\Picture_splice\TPBGPictureBox\obj\Debug\TPBGPictureBox.pdb

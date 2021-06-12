@@ -1,0 +1,11 @@
+C:\Users\allen\source\repos\Picture_splice\QR\obj\Debug\QR.csprojAssemblyReference.cache
+C:\Users\allen\source\repos\Picture_splice\QR\obj\Debug\QR.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\Picture_splice\QR\bin\Debug\QR.dll
+C:\Users\allen\source\repos\Picture_splice\QR\bin\Debug\QR.pdb
+C:\Users\allen\source\repos\Picture_splice\QR\bin\Debug\zxing.dll
+C:\Users\allen\source\repos\Picture_splice\QR\bin\Debug\zxing.presentation.dll
+C:\Users\allen\source\repos\Picture_splice\QR\bin\Debug\zxing.xml
+C:\Users\allen\source\repos\Picture_splice\QR\bin\Debug\zxing.presentation.xml
+C:\Users\allen\source\repos\Picture_splice\QR\obj\Debug\QR.csproj.CopyComplete
+C:\Users\allen\source\repos\Picture_splice\QR\obj\Debug\QR.dll
+C:\Users\allen\source\repos\Picture_splice\QR\obj\Debug\QR.pdb

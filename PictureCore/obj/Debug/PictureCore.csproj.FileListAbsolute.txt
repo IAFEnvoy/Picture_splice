@@ -1,0 +1,14 @@
+E:\code\Picture_splice\PictureCore\bin\Debug\PictureCore.dll
+E:\code\Picture_splice\PictureCore\bin\Debug\PictureCore.pdb
+E:\code\Picture_splice\PictureCore\obj\Debug\PictureCore.csproj.CoreCompileInputs.cache
+E:\code\Picture_splice\PictureCore\obj\Debug\PictureCore.dll
+E:\code\Picture_splice\PictureCore\obj\Debug\PictureCore.pdb
+C:\Users\allen\source\repos\Picture_splice\PictureCore\bin\Debug\PictureCore.dll
+C:\Users\allen\source\repos\Picture_splice\PictureCore\bin\Debug\PictureCore.pdb
+C:\Users\allen\source\repos\Picture_splice\PictureCore\obj\Debug\PictureCore.csprojAssemblyReference.cache
+C:\Users\allen\source\repos\Picture_splice\PictureCore\obj\Debug\PictureCore.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\Picture_splice\PictureCore\obj\Debug\PictureCore.dll
+C:\Users\allen\source\repos\Picture_splice\PictureCore\obj\Debug\PictureCore.pdb
+C:\Users\allen\source\repos\Picture_splice\PictureCore\bin\Debug\TPBGPictureBox.dll
+C:\Users\allen\source\repos\Picture_splice\PictureCore\bin\Debug\TPBGPictureBox.pdb
+C:\Users\allen\source\repos\Picture_splice\PictureCore\obj\Debug\PictureCore.csproj.CopyComplete
