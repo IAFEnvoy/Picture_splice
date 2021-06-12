@@ -85,6 +85,9 @@
     <Compile Include="Setting.Designer.cs">
       <DependentUpon>Setting.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="emoji.resx">
       <DependentUpon>emoji.cs</DependentUpon>
     </EmbeddedResource>

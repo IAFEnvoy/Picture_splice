@@ -253,7 +253,6 @@
             // 
             // 关于ToolStripMenuItem
             // 
-            this.关于ToolStripMenuItem.Enabled = false;
             this.关于ToolStripMenuItem.Name = "关于ToolStripMenuItem";
             this.关于ToolStripMenuItem.Size = new System.Drawing.Size(251, 26);
             this.关于ToolStripMenuItem.Text = "关于";
@@ -288,20 +287,20 @@
             // 
             this.撤销ToolStripMenuItem.Enabled = false;
             this.撤销ToolStripMenuItem.Name = "撤销ToolStripMenuItem";
-            this.撤销ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.撤销ToolStripMenuItem.Size = new System.Drawing.Size(137, 26);
             this.撤销ToolStripMenuItem.Text = "撤销";
             // 
             // 重做ToolStripMenuItem
             // 
             this.重做ToolStripMenuItem.Enabled = false;
             this.重做ToolStripMenuItem.Name = "重做ToolStripMenuItem";
-            this.重做ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.重做ToolStripMenuItem.Size = new System.Drawing.Size(137, 26);
             this.重做ToolStripMenuItem.Text = "重做";
             // 
             // toolStripSeparator6
             // 
             this.toolStripSeparator6.Name = "toolStripSeparator6";
-            this.toolStripSeparator6.Size = new System.Drawing.Size(221, 6);
+            this.toolStripSeparator6.Size = new System.Drawing.Size(134, 6);
             // 
             // 缩放ToolStripMenuItem1
             // 
@@ -312,7 +311,7 @@
             this.toolStripMenuItem18,
             this.toolStripMenuItem19});
             this.缩放ToolStripMenuItem1.Name = "缩放ToolStripMenuItem1";
-            this.缩放ToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
+            this.缩放ToolStripMenuItem1.Size = new System.Drawing.Size(137, 26);
             this.缩放ToolStripMenuItem1.Text = "缩放";
             // 
             // toolStripMenuItem15
@@ -358,20 +357,20 @@
             this.图案ToolStripMenuItem,
             this.图片ToolStripMenuItem});
             this.背景色ToolStripMenuItem.Name = "背景色ToolStripMenuItem";
-            this.背景色ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.背景色ToolStripMenuItem.Size = new System.Drawing.Size(137, 26);
             this.背景色ToolStripMenuItem.Text = "背景色";
             // 
             // 透明ToolStripMenuItem
             // 
             this.透明ToolStripMenuItem.Name = "透明ToolStripMenuItem";
-            this.透明ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.透明ToolStripMenuItem.Size = new System.Drawing.Size(122, 26);
             this.透明ToolStripMenuItem.Text = "透明";
             this.透明ToolStripMenuItem.Click += new System.EventHandler(this.透明ToolStripMenuItem_Click);
             // 
             // 纯色ToolStripMenuItem
             // 
             this.纯色ToolStripMenuItem.Name = "纯色ToolStripMenuItem";
-            this.纯色ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.纯色ToolStripMenuItem.Size = new System.Drawing.Size(122, 26);
             this.纯色ToolStripMenuItem.Text = "纯色";
             this.纯色ToolStripMenuItem.Click += new System.EventHandler(this.纯色ToolStripMenuItem_Click);
             // 
@@ -379,14 +378,14 @@
             // 
             this.图案ToolStripMenuItem.Enabled = false;
             this.图案ToolStripMenuItem.Name = "图案ToolStripMenuItem";
-            this.图案ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.图案ToolStripMenuItem.Size = new System.Drawing.Size(122, 26);
             this.图案ToolStripMenuItem.Text = "图案";
             // 
             // 图片ToolStripMenuItem
             // 
             this.图片ToolStripMenuItem.Enabled = false;
             this.图片ToolStripMenuItem.Name = "图片ToolStripMenuItem";
-            this.图片ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.图片ToolStripMenuItem.Size = new System.Drawing.Size(122, 26);
             this.图片ToolStripMenuItem.Text = "图片";
             // 
             // 添加ToolStripMenuItem
@@ -406,7 +405,7 @@
             // 
             this.单张图片ToolStripMenuItem.Name = "单张图片ToolStripMenuItem";
             this.单张图片ToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.P)));
-            this.单张图片ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.单张图片ToolStripMenuItem.Size = new System.Drawing.Size(203, 26);
             this.单张图片ToolStripMenuItem.Text = "单张图片";
             this.单张图片ToolStripMenuItem.Click += new System.EventHandler(this.单张图片ToolStripMenuItem_Click);
             // 
@@ -414,7 +413,7 @@
             // 
             this.文本ToolStripMenuItem.Name = "文本ToolStripMenuItem";
             this.文本ToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.T)));
-            this.文本ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.文本ToolStripMenuItem.Size = new System.Drawing.Size(203, 26);
             this.文本ToolStripMenuItem.Text = "文本";
             this.文本ToolStripMenuItem.Click += new System.EventHandler(this.文本ToolStripMenuItem_Click);
             // 
@@ -422,7 +421,7 @@
             // 
             this.表情ToolStripMenuItem.Name = "表情ToolStripMenuItem";
             this.表情ToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.E)));
-            this.表情ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.表情ToolStripMenuItem.Size = new System.Drawing.Size(203, 26);
             this.表情ToolStripMenuItem.Text = "表情";
             this.表情ToolStripMenuItem.Click += new System.EventHandler(this.表情ToolStripMenuItem_Click);
             // 
@@ -431,7 +430,7 @@
             this.基本图形ToolStripMenuItem.Enabled = false;
             this.基本图形ToolStripMenuItem.Name = "基本图形ToolStripMenuItem";
             this.基本图形ToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.C)));
-            this.基本图形ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.基本图形ToolStripMenuItem.Size = new System.Drawing.Size(203, 26);
             this.基本图形ToolStripMenuItem.Text = "基本图形";
             // 
             // 截图ToolStripMenuItem
@@ -442,7 +441,7 @@
             this.从视频中截取ToolStripMenuItem});
             this.截图ToolStripMenuItem.Enabled = false;
             this.截图ToolStripMenuItem.Name = "截图ToolStripMenuItem";
-            this.截图ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.截图ToolStripMenuItem.Size = new System.Drawing.Size(203, 26);
             this.截图ToolStripMenuItem.Text = "截图";
             // 
             // 截屏ToolStripMenuItem
@@ -470,7 +469,7 @@
             // 
             this.二维码ToolStripMenuItem.Name = "二维码ToolStripMenuItem";
             this.二维码ToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.Q)));
-            this.二维码ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.二维码ToolStripMenuItem.Size = new System.Drawing.Size(203, 26);
             this.二维码ToolStripMenuItem.Text = "二维码";
             this.二维码ToolStripMenuItem.Click += new System.EventHandler(this.二维码ToolStripMenuItem_Click);
             // 
